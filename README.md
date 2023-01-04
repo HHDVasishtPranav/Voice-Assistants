@@ -3,11 +3,19 @@ In today’s digital world everything is enhanced .The boosted technology allows
 
 packages used:
 speech_recognition
-pyttsx3
-pywhatkit
-webbrowser
-datetime
-time
-requests
-pyjokes
-BeautifulSoup
+
+#pyttsx3
+
+#pywhatkit
+
+#webbrowser
+
+#datetime
+
+#time
+
+#requests
+
+#pyjokes
+
+#BeautifulSoup
